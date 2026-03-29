@@ -13,13 +13,17 @@ To write a Python program for adding two complex numbers, and get the user input
 
 ## PROGRAM
 ```python
-# Reg.No-
-#Name-
-#Write your code here
+
+a = eval()
+b = eval()
+print(f"A is {a}")
+print(f"B is {b}")
+print(f"Sum is {a+b}")
 
 ```
-
 ## OUTPUT
+
+<img width="754" height="347" alt="image" src="https://github.com/user-attachments/assets/97c17e7c-b80c-4731-ab53-59516de1192d" />
 
 
 ## RESULT
